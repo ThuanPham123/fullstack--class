@@ -74,6 +74,7 @@ blockquote {
 }
 
 a {
+  cursor: pointer;
   color: purple;
 }
 a:hover {
